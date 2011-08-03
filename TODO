@@ -11,23 +11,22 @@ Build keep
 Demote keep
 
 Plant crops			[X]
-Harvest crops
+Harvest crops			[X]
 
 Build road			[X]
 
 Build bridge			[X]
 Tear down bridge		[X]
 
-Create hill
+Create hill			[X]
 Flatten hill
 Flatten mountain
 
 Clear snow
 
-Dig
-Fill with water
+Dig to water			[X]
 
-Collect underpants
+Collect underpants		[X]
 
 ?
 
