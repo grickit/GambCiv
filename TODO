@@ -1,12 +1,12 @@
 TODO:
 
+---REQUIRED---
 Build hut			[X]
 Plant trees			[X]
 Harvest trees			[X]
 Build castle			[X]
 Tear down			[X]
 Build keep			[ ]
-Demote keep			[ ]
 Plant crops			[X]
 Harvest crops			[X]
 Build road			[X]
@@ -22,6 +22,9 @@ Collect underpants		[X]
 Profit!				[ ]
 Recruiter			[ ]
 Auto-Farm			[ ]
+
+
+---LOW PRIORITY---
 Castle aesthetic swaps		[ ]
 Keep aesthetic swaps		[ ]
 Grass aesthetic swaps		[ ]
